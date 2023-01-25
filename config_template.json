@@ -1,6 +1,13 @@
 // delete this comment and fill out all blanks
 // then rename this file to "config.json"
 // run go program to upload file/folder to your server
+
+// ***** Explanations *****
+// sourcePath can be file or directory
+// For example, /root/some_dir/ or /root/1.txt
+// dstPath is a directory path, and you file/dir will be in that directory
+// For example, /root/some_dir/
+// *** End ***
 {
   "server": "",
   "user": "",
