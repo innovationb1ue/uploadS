@@ -1,0 +1,10 @@
+// delete this comment and fill out all blanks
+// then rename this file to "config.json"
+// run go program to upload file/folder to your server
+{
+  "server": "",
+  "user": "",
+  "password": "",
+  "sourcePath": "",
+  "dstPath": ""
+}
